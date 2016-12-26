@@ -1,4 +1,4 @@
-# Configure-Angular-with-Rails
+# Configure Angular with Rails
 
 By following these steps you can easily configure angular with your rails application.
 
